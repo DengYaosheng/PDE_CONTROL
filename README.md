@@ -1,6 +1,7 @@
 # PDE_CONTROL
-====================================================================================
+
 PDE_HEAT:
+====================================================================================
 ∂u/∂t = α∇²u
 
 where u(x,y,t) is the temperature at position (x,y) and time t, α is the thermal diffusivity of the material, and ∇² is the Laplacian operator.
